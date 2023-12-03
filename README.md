@@ -18,7 +18,7 @@ Simple start
         -p 27015:27015/tcp \
         -p 0.0.0.0:27015:27015/udp \
         -v $HOME/alienswarm:/steam \
-        dwurf/docker-alienswarm:latest
+        ghcr.io/dpcartwright/alienswarm-server:latest
 
 Variables
 ---------
