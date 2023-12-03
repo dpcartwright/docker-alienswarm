@@ -4,6 +4,8 @@ docker-alienswarm
 Dockerfile for running an Alien Swarm: Reactive Drop server under 
 [wine](https://www.winehq.org)
 
+Minor updates in 2023 to ensure updated container registry upload available.
+
 Requirements
 ------------
 
